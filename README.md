@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working at: <strong>Ramanasoft</strong>  
-- 🌱 I’m currently learning: <strong>Generative AI</strong> & <strong>Agentic AI</strong>  
+- 🌱 I’m currently learning: <strong>Computer Vision</strong> & <strong>Agentic AI</strong>  
 - 💬 Ask me about: <strong>Python, Deep Learning, Prompt Engineering</strong>  
 - 📫 How to reach me: <a href="mailto:rahulrokkam1234@gmail.com">rahulrokkam1234@gmail.com</a>  
 - ⚡ Fun fact: <em>I'm on a mission to learn something new every single day.</em>  
